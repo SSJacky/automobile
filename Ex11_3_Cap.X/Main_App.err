@@ -1,0 +1,3 @@
+Warning[2068] D:\Ex11_3_Cap.X\Main_App.c 258 : obsolete use of implicit 'int' detected
+Warning[2068] D:\Ex11_3_Cap.X\Main_App.c 278 : obsolete use of implicit 'int' detected
+Warning[2066] D:\Ex11_3_Cap.X\Main_App.c 324 : type qualifier mismatch in assignment
